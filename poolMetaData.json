@@ -3,4 +3,10 @@
 "description": "Socious aims to ‘give everyone a chance to make a difference’. By staking ADA via Socious THANK Pool, you support Cardano’s decentralized world and empower everyone to create positive change.",
 "ticker": "THANK",
 "homepage": "https://socious.io/stakepool”
+"url_png_icon_64x64": "https://raw.githubusercontent.com/chrisanneyee/THANK-stakepool/blob/main/Socious.png",
+  "social": {
+   "twitter_handle": "SociousDAO",
+   "youtube_handle": "sociousdao",
+   "facebook_handle": "socious.io",
+   "instagram_handle": "socious.io"
 }
