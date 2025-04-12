@@ -1,6 +1,8 @@
 {
-"name": "Socious THANK Pool",
-"description": "Socious aims to ‘give everyone a chance to make a difference’. By staking ADA via Socious THANK Pool, you support Cardano’s decentralized world and empower everyone to create positive change.",
-"ticker": "THANK",
-"homepage": "https://socious.io/stakepool”
-}
+    "name": "Socious THANK Pool",
+    "description": "Socious aims to ‘give everyone a chance to make a difference’. By staking ADA via Socious THANK Pool, you support Cardano’s decentralized world and empower everyone to create positive change.",
+    "ticker": "THANK",
+    "homepage": "https://socious.io/stakepool",
+    "extended": "https://socious-io.github.io/THANK-stakepool/extendedMetaData.json"
+  }
+  
